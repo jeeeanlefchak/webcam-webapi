@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OC7NZeSG2PDhgcHpeCyyYk8ORRFpWUFJcgq30dbDpRI=",
+  "Source": "webcam",
+  "BasePath": "_content/webcam",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

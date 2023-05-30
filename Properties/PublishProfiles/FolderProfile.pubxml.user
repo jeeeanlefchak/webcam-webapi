@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\IIS_SITES\WEB_CAM</_PublishTargetUrl>
+    <History>True|2023-05-30T18:30:15.4044931Z;True|2023-05-30T15:29:16.3175220-03:00;True|2023-05-30T15:29:12.6025769-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
